@@ -1,0 +1,10 @@
+{
+  "name":"WishList — подарки без повторов",
+  "short_name":"WishList",
+  "description":"Общие списки желаний и бронирование подарков",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#f8f7f4",
+  "theme_color":"#f8f7f4",
+  "icons":[]
+}
