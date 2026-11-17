@@ -19,3 +19,9 @@ dist/
 # OS
 .DS_Store
 Thumbs.db
+
+# Visual Studio
+.vs/
+
+# Temporary files
+*.tmp
